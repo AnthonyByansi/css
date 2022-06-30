@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+div {
+    width: 400px;
+    border: 0 solid #000;
+    height: 100px;
+    width: 394px;
+    padding: 120px;
+    margin: 0 auto;
+    position: relative;
+    text-align: center;
+}
+
+.bio {
+    background-color: #D1D3D4;
+    display: inline-block;
+    float: left;
+}
+
+.photo {
+    background-color: #0061a8;
+    display: inline-block;
+    float: right;
+}
+
+.education {
+    background-color: #406882;
+    left: 0;
+    right: 0;
+    clear: both;
+}
+
+.hobbies {
+    background-color: #8ab6d6;
+    display: inline-block;
+    float: left;
+}
+
+.contact {
+    background-color: #f3bda1;
+    display: inline-block;
+    float: right;
+}
